@@ -104,3 +104,12 @@ systems that —
 
 ---
 
+<div align="center">
+
+
+<img src="butterflies.gif" width="140"/>
+
+</div>
+
+---
+
