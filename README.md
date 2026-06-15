@@ -32,7 +32,7 @@ Currently deep in computer vision and LLMs, somewhere between reading and speaki
 
 
 <p align="center">
-  <img src="quote.png" alt="to live for the hope of it all" width="800"/>
+  <img src="quote.png" alt="to live for the hope of it all" width="300"/>
 </p>
 
 
