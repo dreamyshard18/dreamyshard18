@@ -29,7 +29,7 @@ Currently deep in computer vision and LLMs, somewhere between reading and speaki
  · creative & content lead @ gtech µlearn · public speaker  · apparently also a debater
 
 
-<img width="828" height="324" alt="image" src="https://github.com/user-attachments/assets/9c52e93d-72ac-452d-abb9-54eb4249af31" />
+<img width="700" height="180" alt="image" src="https://github.com/user-attachments/assets/9c52e93d-72ac-452d-abb9-54eb4249af31" />
 
 
 ---
