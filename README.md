@@ -29,22 +29,6 @@ Currently deep in computer vision and LLMs, somewhere between reading and speaki
  · creative & content lead @ gtech µlearn · public speaker  · apparently also a debater
 
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 135" width="100%" height="auto">
-  <defs>
-    <style type="text/css">
-      @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&amp;display=swap');
-      
-      .im-fell-italic {
-        font-family: 'IM Fell DW Pica', serif;
-        font-style: italic;
-        font-size: 104px;
-        fill: #9bbba4;
-        letter-spacing: 1px;
-      }
-    </style>
-  </defs>
-  <text x="50%" y="98" text-anchor="middle" class="im-fell-italic">"to live for the hope of it all."</text>
-</svg>
 
 
 <p align="center">
