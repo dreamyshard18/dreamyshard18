@@ -1,5 +1,5 @@
 <h1 align="center">
-  hey, it's Diya. ✦
+  hey, it's Diya. ♡
 </h1>
 
 <p align="center">
@@ -95,7 +95,7 @@ systems that —
 <div align="center">
 
 
-<img src="butterflies.gif" width="200"/>
+<img src="purplebutterfly.gif" width="200"/>
 
 </div>
 
