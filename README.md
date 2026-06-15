@@ -83,16 +83,6 @@ Moving  between computer vision and LLMs, speaking to the crowd and reading book
 
 ---
 
-### ✦ github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamyshard18&show_icons=true&theme=rose_pine&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamyshard18&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
-
----
 
 ### ✦ what I'm building toward
 
@@ -102,12 +92,10 @@ systems that —
 - 🎙️ understand text, voice, and vision together
   
 
----
-
 <div align="center">
 
 
-<img src="butterflies.gif" width="140"/>
+<img src="butterflies.gif" width="200"/>
 
 </div>
 
