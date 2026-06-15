@@ -1,5 +1,5 @@
 <h1 align="center">
-  hey, i'm diya ✦
+  hey, it's Diya. ✦
 </h1>
 
 <p align="center">
@@ -7,27 +7,30 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diya-s-nair-58533729b/">linkedin</a> ·
-  <a href="https://www.instagram.com/dreamyshard_18/?hl=en">instagram</a> ·
-  
+  <a href="https://www.linkedin.com/in/diya-s-nair-58533729b/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dreamyshard_18/?hl=en">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <br/>
 
 ---
 
-### ✦ who am i
+### ✦ who am I
 
-i build things that think — systems with memory, voice, context, and personality.  
-not demos. not prototypes for the sake of it. actual, deployable, *useful* things.
+cs (ai) student at mits kochi · cgpa 9.0 · graduating 2027
 
-my sweet spot:
+Into building ai systems that do real work — semantic retrieval and generative pipelines.
+Currently deep in computer vision and LLMs, somewhere between reading and speaking to the crowd.
 
-```
-generative ai  ·  computer vision ·  ui/ux design 
-```
+ · creative & content lead @ gtech µlearn · public speaker  · apparently also a debater
 
-
+<p align="center" style="font-family: 'IM Fell DW Pica', serif; font-size: 1.25rem; letter-spacing: 1px; color: #6a5acd;">
+  <i>"to live for the hope of it all."</i>
+</p>
 
 ---
 
@@ -44,19 +47,35 @@ generative ai  ·  computer vision ·  ui/ux design
 
 ### ✦ tech stack
 
+
 **languages**  
-`Python` · `JavaScript` · `Java` · `HTML/CSS`. `Flutter/Dart`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Flutter/Dart](https://img.shields.io/badge/Flutter%2FDart-02569B?style=flat&logo=flutter&logoColor=white)
 
 **ai / ml**  
-`LangChain` · `LlamaIndex` · `HuggingFace` · `Groq` · `TensorFlow` · `OpenCV` · `Scikit-learn`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 **frameworks & tools**  
-`FastAPI` · `Flask` · `Node.js` · `React` · `Pandas` · `NumPy` · `Gradio` 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logoColor=white)
 
 **databases & cloud**  
-`ChromaDB` · `Qdrant` ·
-
-
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a1a?style=flat&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 
 ---
 
@@ -71,7 +90,7 @@ generative ai  ·  computer vision ·  ui/ux design
 
 ---
 
-### ✦ what i'm building toward
+### ✦ what I'm building toward
 
 systems that —
 
