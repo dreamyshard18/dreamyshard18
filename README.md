@@ -24,7 +24,7 @@
 cs (ai) student at mits kochi · cgpa 9.0 · graduating 2027
 
 Into building ai systems that do real work — semantic retrieval and generative pipelines.
-Currently deep in computer vision and LLMs, somewhere between reading and speaking to the crowd.
+Moving  between computer vision and LLMs, speaking to the crowd and reading books in quiet.
 
  · creative & content lead @ gtech µlearn · public speaker  · apparently also a debater
 
