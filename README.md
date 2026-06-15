@@ -47,6 +47,11 @@ Currently deep in computer vision and LLMs, somewhere between reading and speaki
 </svg>
 
 
+<p align="center">
+  <img src="hope.png" alt="to live for the hope of it all" width="800"/>
+</p>
+
+
 ---
 
 ### ✦ projects
